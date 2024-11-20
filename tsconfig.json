@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2016",
+    "module": "ESNext",
+    "lib": ["ES2016"],
+    "outDir": "./dist",
+    "strict": true,
+    "moduleResolution": "node",
+    "rootDir": "./"
+  }
+}
